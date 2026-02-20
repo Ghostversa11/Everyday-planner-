@@ -63,15 +63,15 @@ Example of adding a task:
 ```bash
 Choose an option (1-7): 3
   Task title: Buy groceries
-  ✅ Added: 'Buy groceries'
+  Added: 'Buy groceries'
 ```
 
 Example task list view:
 
 ```bash
-   1. ⬜ Buy groceries                       2024-06-01 09:15
-   2. ✅ Call the bank                        2024-06-01 10:30
-   3. ⬜ Finish Python project               2024-06-01 11:00
+   1. Buy groceries                       
+   2. Call the bank                        
+   3. Finish Python project              
 ```
 
 
